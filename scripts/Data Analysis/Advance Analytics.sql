@@ -3,7 +3,7 @@
 Customer Report
 =========================================================
 Purpose:
- - This report consolidates key custome metrics and behaviors
+ - This report consolidates key customer metrics and behaviors
 
  Highlights:
 	1. Gathers essentials fields such as names , ages and transaction details.
